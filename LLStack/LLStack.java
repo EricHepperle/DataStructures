@@ -1,7 +1,8 @@
 /* ADTStack LinkedList Implememntation
  * 
  * Class    : LLStack.Java
- * Purpose  : Provides constructor and methods for LLStack
+ * Purpose  : Provides constructor and methods for LLStack. LLStack is a
+ *            LIFO data structure with push, pop, top, and isEmpty methods.
  * 
  * @author Eric Hepperle
  * Date: 5/2/2016 5:38PM
