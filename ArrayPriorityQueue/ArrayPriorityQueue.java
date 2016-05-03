@@ -3,7 +3,7 @@
  * Class    : ArrayPriorityQueue.java
  * Purpose  : Provides constructor and methods for ArrayPriorityQueue.
  *            Priority Queue data structure with enqueue, dequeue and size
-              methods.
+*             methods. Simple end of the array enqueue, priority handled on dequeue.
  * 
  * @author Eric Hepperle
  * Date: 5/3/2016 10:38AM
