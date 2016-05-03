@@ -33,10 +33,7 @@ public class LLStack<T> {
     } // end pop
 
     public boolean isEmpty(){
-        if(top == null){
-            return true;
-        }
-        return false;
+        return(top == null);
     } // end isEmpty
 
 }
