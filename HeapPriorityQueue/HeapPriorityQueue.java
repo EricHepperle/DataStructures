@@ -3,8 +3,8 @@
  * Class    : HeapPriorityQueue.java
  * Purpose  : Provides constructor and methods for HeapPriorityQueue.
  *            Priority Queue data structure with enqueue, dequeue and size
- *            methods. Heap is maintained on both enqueue and dequeue
- *            operations.
+ *            methods. Heap organization is maintained on both enqueue and dequeue
+ *            operations. Uses int type for priority key comparisons.
  * 
  * @author Eric Hepperle
  * Date: 5/3/2016 10:38AM
